@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.intestazione{
+    background-image: url("/img/pattern.png");
+    height: 100px;
+    background-color: lightblue;
+    background-size: contain;
+    background-size: 500px;
+}
+#logo {
+    height: 100px;
+    width: 200px;
+}
+h1{
+    margin-top: 10px;
+    font-size: 60px;
+}
+header span{
+    color: blue;
+}
+.data{
+    font-size: 14px;
+    color: grey;
+}
