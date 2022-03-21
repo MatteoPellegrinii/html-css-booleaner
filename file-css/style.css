@@ -53,7 +53,26 @@ th{
 .azzurro{
     background-color: aquamarine;
 }
-footer div{
+/* footer */
+footer p{
     color: grey;
     margin-top: 30px;
+}
+.immagine-footer{
+    margin-top: 20px;
+    background-image: url("/img/monitor.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 200px;
+    color: white;
+}
+.immagine-footer-2{
+    margin-top: 20px;
+    background-image: url("/img/graph.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 200px;
+    color: white;
 }
