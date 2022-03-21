@@ -29,6 +29,7 @@ header span{
 /* main */
 section img{
    height: 400px;
+   display: inline-block;
 }
 section div{
     font-size: 14px;
@@ -43,4 +44,16 @@ section p{
 }
 ul{
     margin-left: 20px;
+}
+th{
+    color: white;
+    background-color: blue;
+    padding-right: 120px;
+}
+.azzurro{
+    background-color: aquamarine;
+}
+footer div{
+    color: grey;
+    margin-top: 30px;
 }
