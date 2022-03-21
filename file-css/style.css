@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-size: 20px;
 }
 .intestazione{
     background-image: url("/img/pattern.png");
@@ -23,4 +24,23 @@ header span{
 .data{
     font-size: 14px;
     color: grey;
+}
+
+/* main */
+section img{
+   height: 400px;
+}
+section div{
+    font-size: 14px;
+}
+section p{
+    margin-top: 20px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.testo-sottolineato{
+    background-color: yellow;
+}
+ul{
+    margin-left: 20px;
 }
